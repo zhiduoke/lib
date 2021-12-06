@@ -1,4 +1,4 @@
-module lib
+module github.com/zhiduoke/lib
 
 go 1.16
 
